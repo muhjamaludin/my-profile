@@ -1,0 +1,11 @@
+[
+  {
+    "No": 1,
+    "Project": "lebaran-22",
+    "Description": "project to counting time to 1 syawal 1443 H",
+    "Reason": "Evaluate skill",
+    "Tech-stack": ["HTML", "CSS", "Javascript"],
+    "Deployment": ["Gitlab", "Gitlab pages"],
+    "Link": "https://74maludin.gitlab.io/lebaran-2022"
+  }
+]
